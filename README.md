@@ -1,6 +1,6 @@
 # 🏷️ Automated Label Applicator
 
-<!-- Last comment -->
+The goal for this project is to make a cheap and automated DIY Label Applicator for small bottles and flasks with adjustable size, relative to the bottle placed on the device. 
 
 
 ---
@@ -23,7 +23,8 @@
 
 ## 🔍 Introduction
 
-This project is created for a friend who is into honey-farming. in 2024, my friend's bee-families produced nearly half-a-ton of honey. He sells rougly half-a-kilo in each bottle, meaning he has to manually label roughly 1.000 bottles - That is both time-consuming and might not be the most fun part of honey-farming. Automatic label applicators are very expensive tools. Therefore, this project was created to figure out of a cheaper alternative, plus it is a challenging task. 
+This project is created for a friend who is into honey-farming. in 2024, my friend's bee-families produced nearly half-a-ton of honey. He sells rougly half-a-kilo in each bottle, meaning he has to manually label roughly 1.000 bottles - That is both time-consuming and might not be the most fun part of honey-farming. Automatic label applicators are very expensive tools. Therefore, this project was created to figure out of a cheaper alternative. 
+
 
 ---
 
