@@ -30,6 +30,8 @@ This project is created for a friend who is into honey-farming. in 2024, my frie
 
 ## :green_book: Design Process
 
+7th of August 2025 - At first my objective was for the components that required to be attached to the profile, should be inserted so that they were tightened. However, since the profile is only 20 mm x 20 mm, it was difficult to fit them, inside the I-profile sockets and created tolerance issues etc. But since I will be working with T-nuts, this is a stupid approach. I therefore chose to create components, that just fits a M4 10 mm screw, which will be tightened to the profile instead, so nothing, other that the nut, will be inserted into the sockets. 
+
 ---
 
 ## ✨ Features
