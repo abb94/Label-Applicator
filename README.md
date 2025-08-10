@@ -15,7 +15,7 @@ The goal for this project is to make a cheap and automated DIY Label Applicator 
 - [Installation](#installation)
 - [Design Files](#design-files)
 - [Roadmap](#roadmap)
-- [Log](#Log)
+- [Log](##Log)
 
 ---
 
