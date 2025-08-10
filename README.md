@@ -7,7 +7,7 @@ The goal for this project is to make a cheap and automated DIY Label Applicator 
 
 ## 📚 Table of Contents
 
-- [Introduction](#introduction)
+- [Introduction](#-introduction)
 - [Requirements](#requirements)
 - [Features](#features)
 - [Hardware](#hardware)
