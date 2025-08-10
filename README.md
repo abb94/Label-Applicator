@@ -38,7 +38,10 @@ I have started designing the most fundamental parts for the applicator. <br>
 - A model for a honey glass
 - A section for adjustable size, depending on the honey glass
 - A mounting socket for quick testing, to figure out size requirements.
-<img width="673" height="530" alt="image" src="https://github.com/user-attachments/assets/a071257f-f5be-479f-b65d-7165690b0790" /> <br>
+
+<br>
+<img width="673" height="530" alt="image" src="https://github.com/user-attachments/assets/a071257f-f5be-479f-b65d-7165690b0790" />
+<br>
 Originally I had ordered a cheap paint roller with rubber on AliExpress and afterwards stripted it apart, to only have the cylinder of the roller. <br>
 Afterwards I could sand the edges, mount the bearing and find a socket for the bearing on Thingiverse, to test if the bearing and cylinder, could be used as a roller for the glass (See the red cylinder on picture). <br>
 ![cylinder picture](https://github.com/user-attachments/assets/becfab0d-195f-463b-a059-23e2ec55cd81) <br>
