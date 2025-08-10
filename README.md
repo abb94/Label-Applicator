@@ -23,15 +23,18 @@ The goal for this project is to make a cheap and automated DIY Label Applicator 
 
 ## 🔍 Introduction
 
-This project is created for a friend who is into honey-farming. in 2024, my friend's bee-families produced nearly half-a-ton of honey. He sells rougly half-a-kilo in each bottle, meaning he has to manually label roughly 1.000 bottles - That is both time-consuming and might not be the most fun part of honey-farming. Automatic label applicators are very expensive tools. Therefore, this project was created to figure out of a cheaper alternative. 
+This project was created for a friend who is passionate about honey farming. In 2024, his bee colonies produced nearly half a ton of honey. Since each bottle contains roughly half a kilo, that’s about 1,000 bottles to label by hand — a task that’s both time-consuming and far from the most enjoyable part of beekeeping. Commercial automatic label applicators are notoriously expensive, so this project aims to develop a more affordable alternative.
 
 
 ---
 
-## :green_book: Design Process
+## :green_book: Log
 
 ### 7th of August 2025 <br>
-At first my objective was for the components that required to be attached to the profile, should be inserted so that they were tightened. However, since the profile is only 20 mm x 20 mm, it was difficult to fit them, inside the I-profile sockets and created tolerance issues etc. <br> Since I will be working with T-nuts, this is a stupid approach. I therefore chose to create components, that just fits a M4 10 mm screw, which will be tightened to the profile instead, so nothing, other that the nut, will be inserted into the sockets. <br> <br>
+Initially, my goal was to design the components so they could be inserted into the profile and held in place by a tight fit. However, since the profile measures only 20 mm × 20 mm, fitting them inside the I-profile sockets proved difficult and led to tolerance issues.
+Considering I’ll be using T-nuts, this approach didn’t make much sense. Instead, I decided to design the components to fit an M4×10 mm screw, which can be tightened directly onto the profile — meaning only the nut will go into the sockets.
+
+
 ###8th of August 2025 <br>
 I have started designing the most fundamental parts for the applicator. <br>
 - I have created the main roller
@@ -43,15 +46,13 @@ I have started designing the most fundamental parts for the applicator. <br>
 <img width="673" height="530" alt="image" src="https://github.com/user-attachments/assets/a071257f-f5be-479f-b65d-7165690b0790" />
 <br>
 
-Originally I had ordered a cheap paint roller with rubber on AliExpress and afterwards stripted it apart, to only have the cylinder of the roller. <br>
-Afterwards I could sand the edges, mount the bearing and find a socket for the bearing on Thingiverse, to test if the bearing and cylinder, could be used as a roller for the glass (See the red cylinder on picture).
+I initially ordered a cheap rubber-coated paint roller from AliExpress and disassembled it to keep only the roller cylinder. I then sanded the edges, mounted the bearing, and found a suitable bearing socket on Thingiverse. This allowed me to test whether the bearing and cylinder could function as a roller for the glass (see the red cylinder in the picture).
 
 <br>
 <img width="673" height="530" alt="image" src="https://github.com/user-attachments/assets/d94a9a55-70c0-45e3-b1c3-cfa88fbf8da7" />
 <br>
 
-However, the cylinder I bought had a great grip towards the glass, however the cylinder has a too uneven surface. <br>
-If the surface is too uneven, a label application loop will likely have a high chance of error - I will therefore try to figure out of I can create my own 3D-printed cylinder and attach something on the surface, which increases the friction between glass and cylinder.
+The cylinder I bought provided excellent grip on the glass, but its surface was too uneven. An uneven surface could cause frequent errors during the label application process. To address this, I plan to design my own 3D-printed cylinder and add a surface coating or material that increases friction between the glass and the cylinder.
 
 
 ---
