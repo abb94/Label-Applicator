@@ -8,18 +8,19 @@ The goal for this project is to make a cheap and automated DIY Label Applicator 
 ## 📚 Table of Contents
 
 - [Introduction](#introduction)
-- [Requirements](#Requirements)
+- [Requirements](#requirements)
 - [Features](#features)
 - [Hardware](#hardware)
 - [Software](#software)
 - [Installation](#installation)
 - [Design Files](#design-files)
 - [Roadmap](#roadmap)
-- [Log](#Log)
+- [Log](#log)
 
 ---
 
 ## 🔍 Introduction
+
 
 This project was created for a friend who is passionate about honey farming. In 2024, his bee colonies produced nearly half a ton of honey. Since each bottle contains roughly half a kilo, that’s about 1,000 bottles to label by hand — a task that’s both time-consuming and far from the most enjoyable part of beekeeping. Commercial automatic label applicators are notoriously expensive, so this project aims to develop a more affordable alternative.
 
