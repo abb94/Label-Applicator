@@ -26,7 +26,7 @@ This project was created for a friend who is passionate about honey farming. In 
 
 ---
 
-## :!!: Requirements
+## ‼️: Requirements
 
 ---
 
@@ -70,7 +70,7 @@ List completed tasks and planned features with checkboxes. Example:
 
 ---
 
-## :green_book: Log
+## 📗: Log
 
 ### 7th of August 2025 <br>
 Initially, my goal was to design the components so they could be inserted into the profile and held in place by a tight fit. However, since the profile measures only 20 mm × 20 mm, fitting them inside the I-profile sockets proved difficult and led to tolerance issues.
