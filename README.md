@@ -30,13 +30,20 @@ This project is created for a friend who is into honey-farming. in 2024, my frie
 
 ## :green_book: Design Process
 
-7th of August 2025 - At first my objective was for the components that required to be attached to the profile, should be inserted so that they were tightened. However, since the profile is only 20 mm x 20 mm, it was difficult to fit them, inside the I-profile sockets and created tolerance issues etc. <br> Since I will be working with T-nuts, this is a stupid approach. I therefore chose to create components, that just fits a M4 10 mm screw, which will be tightened to the profile instead, so nothing, other that the nut, will be inserted into the sockets. <br> <br>
-8th of August 2025 - I have started designing the most fundamental parts for the applicator. 
+### 7th of August 2025 <br>
+At first my objective was for the components that required to be attached to the profile, should be inserted so that they were tightened. However, since the profile is only 20 mm x 20 mm, it was difficult to fit them, inside the I-profile sockets and created tolerance issues etc. <br> Since I will be working with T-nuts, this is a stupid approach. I therefore chose to create components, that just fits a M4 10 mm screw, which will be tightened to the profile instead, so nothing, other that the nut, will be inserted into the sockets. <br> <br>
+###8th of August 2025 <br>
+I have started designing the most fundamental parts for the applicator. <br>
 - I have created the main roller
 - A model for a honey glass
 - A section for adjustable size, depending on the honey glass
 - A mounting socket for quick testing, to figure out size requirements.
-<img width="673" height="530" alt="image" src="https://github.com/user-attachments/assets/a071257f-f5be-479f-b65d-7165690b0790" />
+<img width="673" height="530" alt="image" src="https://github.com/user-attachments/assets/a071257f-f5be-479f-b65d-7165690b0790" /> <br>
+Originally I had ordered a cheap paint roller with rubber on AliExpress and afterwards stripted it apart, to only have the cylinder of the roller. <br>
+Afterwards I could sand the edges, mount the bearing and find a socket for the bearing on Thingiverse, to test if the bearing and cylinder, could be used as a roller for the glass (See the red cylinder on picture). <br>
+![cylinder picture](https://github.com/user-attachments/assets/becfab0d-195f-463b-a059-23e2ec55cd81) <br>
+However, the cylinder I bought had a great grip towards the glass, however the cylinder has a too uneven surface. <br>
+If the surface is too uneven, a label application loop will likely have a high chance of error - I will therefore try to figure out of I can create my own 3D-printed cylinder and attach something on the surface, which increases the friction between glass and cylinder.
 
 
 ---
