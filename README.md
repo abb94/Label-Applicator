@@ -45,7 +45,7 @@ I have started designing the most fundamental parts for the applicator. <br>
 Originally I had ordered a cheap paint roller with rubber on AliExpress and afterwards stripted it apart, to only have the cylinder of the roller. <br>
 Afterwards I could sand the edges, mount the bearing and find a socket for the bearing on Thingiverse, to test if the bearing and cylinder, could be used as a roller for the glass (See the red cylinder on picture).
 <br>
-![cylinder picture](https://github.com/user-attachments/assets/becfab0d-195f-463b-a059-23e2ec55cd81)
+<img width="673" height="530" alt="image" src="https://github.com/user-attachments/assets/d94a9a55-70c0-45e3-b1c3-cfa88fbf8da7" />
 <br>
 However, the cylinder I bought had a great grip towards the glass, however the cylinder has a too uneven surface. <br>
 If the surface is too uneven, a label application loop will likely have a high chance of error - I will therefore try to figure out of I can create my own 3D-printed cylinder and attach something on the surface, which increases the friction between glass and cylinder.
