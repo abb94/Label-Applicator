@@ -30,7 +30,14 @@ This project is created for a friend who is into honey-farming. in 2024, my frie
 
 ## :green_book: Design Process
 
-7th of August 2025 - At first my objective was for the components that required to be attached to the profile, should be inserted so that they were tightened. However, since the profile is only 20 mm x 20 mm, it was difficult to fit them, inside the I-profile sockets and created tolerance issues etc. <br> Since I will be working with T-nuts, this is a stupid approach. I therefore chose to create components, that just fits a M4 10 mm screw, which will be tightened to the profile instead, so nothing, other that the nut, will be inserted into the sockets. 
+7th of August 2025 - At first my objective was for the components that required to be attached to the profile, should be inserted so that they were tightened. However, since the profile is only 20 mm x 20 mm, it was difficult to fit them, inside the I-profile sockets and created tolerance issues etc. <br> Since I will be working with T-nuts, this is a stupid approach. I therefore chose to create components, that just fits a M4 10 mm screw, which will be tightened to the profile instead, so nothing, other that the nut, will be inserted into the sockets. <br> <br>
+8th of August 2025 - I have started designing the most fundamental parts for the applicator. 
+- I have created the main roller
+- A model for a honey glass
+- A section for adjustable size, depending on the honey glass
+- A mounting socket for quick testing, to figure out size requirements.
+<img width="673" height="530" alt="image" src="https://github.com/user-attachments/assets/a071257f-f5be-479f-b65d-7165690b0790" />
+
 
 ---
 
