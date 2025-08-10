@@ -8,16 +8,14 @@ The goal for this project is to make a cheap and automated DIY Label Applicator 
 ## 📚 Table of Contents
 
 - [Introduction](#introduction)
-- [Design Process](#Design)
+- [Requirements](#Requirements)
 - [Features](#features)
 - [Hardware](#hardware)
 - [Software](#software)
 - [Installation](#installation)
 - [Design Files](#design-files)
 - [Roadmap](#roadmap)
-- [Issues and Contributions](#issues-and-contributions)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+- [Log](#Log)
 
 ---
 
@@ -28,32 +26,7 @@ This project was created for a friend who is passionate about honey farming. In 
 
 ---
 
-## :green_book: Log
-
-### 7th of August 2025 <br>
-Initially, my goal was to design the components so they could be inserted into the profile and held in place by a tight fit. However, since the profile measures only 20 mm × 20 mm, fitting them inside the I-profile sockets proved difficult and led to tolerance issues.
-Considering I’ll be using T-nuts, this approach didn’t make much sense. Instead, I decided to design the components to fit an M4×10 mm screw, which can be tightened directly onto the profile — meaning only the nut will go into the sockets.
-
-
-###8th of August 2025 <br>
-I have started designing the most fundamental parts for the applicator. <br>
-- I have created the main roller
-- A model for a honey glass
-- A section for adjustable size, depending on the honey glass
-- A mounting socket for quick testing, to figure out size requirements.
-
-<br>
-<img width="673" height="530" alt="image" src="https://github.com/user-attachments/assets/a071257f-f5be-479f-b65d-7165690b0790" />
-<br>
-
-I initially ordered a cheap rubber-coated paint roller from AliExpress and disassembled it to keep only the roller cylinder. I then sanded the edges, mounted the bearing, and found a suitable bearing socket on Thingiverse. This allowed me to test whether the bearing and cylinder could function as a roller for the glass (see the red cylinder in the picture).
-
-<br>
-<img width="673" height="530" alt="image" src="https://github.com/user-attachments/assets/d94a9a55-70c0-45e3-b1c3-cfa88fbf8da7" />
-<br>
-
-The cylinder I bought provided excellent grip on the glass, but its surface was too uneven. An uneven surface could cause frequent errors during the label application process. To address this, I plan to design my own 3D-printed cylinder and add a surface coating or material that increases friction between the glass and the cylinder.
-
+## :!!: Requirements
 
 ---
 
@@ -88,6 +61,7 @@ The cylinder I bought provided excellent grip on the glass, but its surface was 
 ---
 
 ## 🧭 Roadmap
+
 <!--
 List completed tasks and planned features with checkboxes. Example:
 - [x] Basic motor control
@@ -95,3 +69,33 @@ List completed tasks and planned features with checkboxes. Example:
 -->
 
 ---
+
+## :green_book: Log
+
+### 7th of August 2025 <br>
+Initially, my goal was to design the components so they could be inserted into the profile and held in place by a tight fit. However, since the profile measures only 20 mm × 20 mm, fitting them inside the I-profile sockets proved difficult and led to tolerance issues.
+Considering I’ll be using T-nuts, this approach didn’t make much sense. Instead, I decided to design the components to fit an M4×10 mm screw, which can be tightened directly onto the profile — meaning only the nut will go into the sockets.
+
+
+###8th of August 2025 <br>
+I have started designing the most fundamental parts for the applicator. <br>
+- I have created the main roller
+- A model for a honey glass
+- A section for adjustable size, depending on the honey glass
+- A mounting socket for quick testing, to figure out size requirements.
+
+<br>
+<img width="673" height="530" alt="image" src="https://github.com/user-attachments/assets/a071257f-f5be-479f-b65d-7165690b0790" />
+<br>
+
+I initially ordered a cheap rubber-coated paint roller from AliExpress and disassembled it to keep only the roller cylinder. I then sanded the edges, mounted the bearing, and found a suitable bearing socket on Thingiverse. This allowed me to test whether the bearing and cylinder could function as a roller for the glass (see the red cylinder in the picture).
+
+<br>
+<img width="673" height="530" alt="image" src="https://github.com/user-attachments/assets/d94a9a55-70c0-45e3-b1c3-cfa88fbf8da7" />
+<br>
+
+The cylinder I bought provided excellent grip on the glass, but its surface was too uneven. An uneven surface could cause frequent errors during the label application process. To address this, I plan to design my own 3D-printed cylinder and add a surface coating or material that increases friction between the glass and the cylinder.
+
+
+---
+
