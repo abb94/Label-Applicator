@@ -97,6 +97,21 @@ I initially ordered a cheap rubber-coated paint roller from AliExpress and disas
 
 The cylinder I bought provided excellent grip on the glass, but its surface was too uneven. An uneven surface could cause frequent errors during the label application process. To address this, I plan to design my own 3D-printed cylinder and add a surface coating or material that increases friction between the glass and the cylinder.
 
+### 17th of August 2025 <br>
+I have scraped the previous idea by using a paint roller as the base, for the rolling mechanism of the label applicator. 
+The reasoning for this are the following: 
+- Approximately needing 3 cylinders with 30 mm in diamater and a length of approximately 140 mm, and additionally needing 4 x 20 mm cylinder with equal length to guide the label spool, would take a long time 3d printing.
+- Furthermore, the filament required, would likely be quite high.
+
+Therefore, I have found some old aluminum cylinders in different sizes, from an old moveable wardrobe I could use, as a base to create the cylinders. 
+![Billede 1](https://github.com/user-attachments/assets/ec957acc-0a6e-4244-8dcf-dd2fbd8886dc)
+![Billede 2](https://github.com/user-attachments/assets/6450b3e9-897a-4e62-b066-ac5fee6ddc57)
+
+Furthermore, I have found a a default socket concept I will be using for the cylinders, where the socket fits perfectly on the profile and allows a tight fit for the bearing, while the bearing can still easily move. 
+![Billede 4](https://github.com/user-attachments/assets/14e7646c-762e-411f-ae51-1720ac6849da)
+
+
+
 
 ---
 
