@@ -29,6 +29,12 @@ This project was created for a friend who is passionate about honey farming. In 
 
 ## ‼️: Requirements
 
+- [ ] Easy to move around. 
+- [ ] Apply labels on different dimensions of glass and label sizes. 
+- [ ] Easy to maintain.
+- [ ] Easy to use.
+- [ ] Semi-automatic and manual to operate. 
+
 ---
 
 ## ✨ Features
@@ -39,7 +45,9 @@ This project was created for a friend who is passionate about honey farming. In 
 
 ## 🔩 Hardware
 
-<!-- List the components used. You can create a table with: name, description, and (optionally) a link. -->
+- 2 x 20 mm x 20 mm x 60 mm I-type profiles
+- 3 x 20 mm x 20 mm x 15 mm I-type profiles
+
 
 ---
 
@@ -57,7 +65,9 @@ This project was created for a friend who is passionate about honey farming. In 
 
 ## 🖼️ Design Files
 
-<!-- Describe the CAD (Fusion 360) files and 3D print files. Add screenshots or renders if possible. -->
+Current socket design: 
+<img width="621" height="361" alt="Uden titel" src="https://github.com/user-attachments/assets/888745ba-e3ab-4d5b-b5f9-75ab3cf6bcaf" />
+
 
 ---
 
