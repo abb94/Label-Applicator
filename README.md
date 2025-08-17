@@ -1,33 +1,39 @@
 # 🏷️ Automated Label Applicator
 
-<!-- Last comment -->
+The goal for this project is to make a cheap and automated DIY Label Applicator for small bottles and flasks with adjustable size, relative to the bottle placed on the device. 
 
 
 ---
 
 ## 📚 Table of Contents
 
-- [Introduction](#introduction)
-- [Design Process](#Design)
-- [Features](#features)
-- [Hardware](#hardware)
-- [Software](#software)
-- [Installation](#installation)
-- [Design Files](#design-files)
-- [Roadmap](#roadmap)
-- [Issues and Contributions](#issues-and-contributions)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+- [Introduction](#-introduction)
+- [Requirements](#-requirements)
+- [Features](#-features)
+- [Hardware](#-hardware)
+- [Software](#-software)
+- [Installation](#-installation)
+- [Design Files](#-design-files)
+- [Roadmap](#-roadmap)
+- [Log](#-log)
 
 ---
 
 ## 🔍 Introduction
 
-This project is created for a friend who is into honey-farming. in 2024, my friend's bee-families produced nearly half-a-ton of honey. He sells rougly half-a-kilo in each bottle, meaning he has to manually label roughly 1.000 bottles - That is both time-consuming and might not be the most fun part of honey-farming. Automatic label applicators are very expensive tools. Therefore, this project was created to figure out of a cheaper alternative, plus it is a challenging task. 
+
+This project was created for a friend who is passionate about honey farming. In 2024, his bee colonies produced nearly half a ton of honey. Since each bottle contains roughly half a kilo, that’s about 1,000 bottles to label by hand — a task that’s both time-consuming and far from the most enjoyable part of beekeeping. Commercial automatic label applicators are notoriously expensive, so this project aims to develop a more affordable alternative.
+
 
 ---
 
-## :green_book: Design Process
+## ‼️: Requirements
+
+- [ ] Easy to move around. 
+- [ ] Apply labels on different dimensions of glass and label sizes. 
+- [ ] Easy to maintain.
+- [ ] Easy to use.
+- [ ] Semi-automatic and manual to operate. 
 
 ---
 
@@ -39,7 +45,9 @@ This project is created for a friend who is into honey-farming. in 2024, my frie
 
 ## 🔩 Hardware
 
-<!-- List the components used. You can create a table with: name, description, and (optionally) a link. -->
+- 2 x 20 mm x 20 mm x 60 mm I-type profiles
+- 3 x 20 mm x 20 mm x 15 mm I-type profiles
+
 
 ---
 
@@ -57,11 +65,15 @@ This project is created for a friend who is into honey-farming. in 2024, my frie
 
 ## 🖼️ Design Files
 
-<!-- Describe the CAD (Fusion 360) files and 3D print files. Add screenshots or renders if possible. -->
+Current socket design: <br>
+
+<img width="621" height="361" alt="Uden titel" src="https://github.com/user-attachments/assets/888745ba-e3ab-4d5b-b5f9-75ab3cf6bcaf" />
+
 
 ---
 
 ## 🧭 Roadmap
+
 <!--
 List completed tasks and planned features with checkboxes. Example:
 - [x] Basic motor control
@@ -69,3 +81,48 @@ List completed tasks and planned features with checkboxes. Example:
 -->
 
 ---
+
+## 📗: Log
+
+### 7th of August 2025 <br>
+Initially, my goal was to design the components so they could be inserted into the profile and held in place by a tight fit. However, since the profile measures only 20 mm × 20 mm, fitting them inside the I-profile sockets proved difficult and led to tolerance issues.
+Considering I’ll be using T-nuts, this approach didn’t make much sense. Instead, I decided to design the components to fit an M4×10 mm screw, which can be tightened directly onto the profile — meaning only the nut will go into the sockets.
+
+
+###8th of August 2025 <br>
+I have started designing the most fundamental parts for the applicator. <br>
+- I have created the main roller
+- A model for a honey glass
+- A section for adjustable size, depending on the honey glass
+- A mounting socket for quick testing, to figure out size requirements.
+
+<br>
+<img width="673" height="530" alt="image" src="https://github.com/user-attachments/assets/a071257f-f5be-479f-b65d-7165690b0790" />
+<br>
+
+I initially ordered a cheap rubber-coated paint roller from AliExpress and disassembled it to keep only the roller cylinder. I then sanded the edges, mounted the bearing, and found a suitable bearing socket on Thingiverse. This allowed me to test whether the bearing and cylinder could function as a roller for the glass (see the red cylinder in the picture).
+
+<br>
+<img width="673" height="530" alt="image" src="https://github.com/user-attachments/assets/d94a9a55-70c0-45e3-b1c3-cfa88fbf8da7" />
+<br>
+
+The cylinder I bought provided excellent grip on the glass, but its surface was too uneven. An uneven surface could cause frequent errors during the label application process. To address this, I plan to design my own 3D-printed cylinder and add a surface coating or material that increases friction between the glass and the cylinder.
+
+### 17th of August 2025 <br>
+I have scraped the previous idea by using a paint roller as the base, for the rolling mechanism of the label applicator. 
+The reasoning for this are the following: 
+- Approximately needing 3 cylinders with 30 mm in diamater and a length of approximately 140 mm, and additionally needing 4 x 20 mm cylinder with equal length to guide the label spool, would take a long time 3d printing.
+- Furthermore, the filament required, would likely be quite high.
+
+Therefore, I have found some old aluminum cylinders in different sizes, from an old moveable wardrobe I could use, as a base to create the cylinders. 
+![Billede 1](https://github.com/user-attachments/assets/ec957acc-0a6e-4244-8dcf-dd2fbd8886dc)
+![Billede 2](https://github.com/user-attachments/assets/6450b3e9-897a-4e62-b066-ac5fee6ddc57)
+
+Furthermore, I have found a a default socket concept I will be using for the cylinders, where the socket fits perfectly on the profile and allows a tight fit for the bearing, while the bearing can still easily move. 
+![Billede 4](https://github.com/user-attachments/assets/14e7646c-762e-411f-ae51-1720ac6849da)
+
+
+
+
+---
+
