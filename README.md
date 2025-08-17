@@ -65,7 +65,8 @@ This project was created for a friend who is passionate about honey farming. In 
 
 ## 🖼️ Design Files
 
-Current socket design: 
+Current socket design: <br>
+
 <img width="621" height="361" alt="Uden titel" src="https://github.com/user-attachments/assets/888745ba-e3ab-4d5b-b5f9-75ab3cf6bcaf" />
 
 
