@@ -16,6 +16,7 @@ The goal for this project is to make a cheap and automated DIY Label Applicator 
 - [Design Files](#-design-files)
 - [Roadmap](#-roadmap)
 - [Log](#-log)
+- [Learings](#-learn)
 
 ---
 
@@ -120,6 +121,11 @@ Therefore, I have found some old aluminum cylinders in different sizes, from an 
 
 Furthermore, I have found a a default socket concept I will be using for the cylinders, where the socket fits perfectly on the profile and allows a tight fit for the bearing, while the bearing can still easily move. 
 ![Billede 4](https://github.com/user-attachments/assets/14e7646c-762e-411f-ae51-1720ac6849da)
+
+---
+### 📄: Learnings
+- Create a component as the first thing in Fusion 360. Create the body, and the sketch creating that body, and keep it inside the component.
+- Tolerances are difficult on a 3d Printer. 
 
 
 
