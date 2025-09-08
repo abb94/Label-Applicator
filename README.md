@@ -122,6 +122,15 @@ Therefore, I have found some old aluminum cylinders in different sizes, from an 
 Furthermore, I have found a a default socket concept I will be using for the cylinders, where the socket fits perfectly on the profile and allows a tight fit for the bearing, while the bearing can still easily move. 
 ![Billede 4](https://github.com/user-attachments/assets/14e7646c-762e-411f-ae51-1720ac6849da)
 
+### 8th of September 2025 <br>
+I have ended on the design below, for the large rollers on the label applicator. 
+
+<img width="986" height="615" alt="current design" src="https://github.com/user-attachments/assets/9ff043d8-c484-47b4-a8a3-37aa3648bd9c" />
+
+I have 3D printed the current design and constructed the main frame with the two large rollers upon. 
+![printed design](https://github.com/user-attachments/assets/9c9398a5-125c-46e3-b484-f33258dd831a)
+Furthermore, due to the low amount of friction between the aluminum cylinder and the glass, I have bought some shrinking tape for the large cylinders (I do not expect this to be required for the small ones), which needs to be heat-treated with boiling water, to fit perfectly. This should create the necessary friction for the honey glass to roll smoothly. 
+
 ---
 ### 📄: Learnings
 - Create a component as the first thing in Fusion 360. Create the body, and the sketch creating that body, and keep it inside the component.
