@@ -131,7 +131,7 @@ I have 3D printed the current design and constructed the main frame with the two
 ![printed design](https://github.com/user-attachments/assets/9c9398a5-125c-46e3-b484-f33258dd831a)
 Furthermore, due to the low amount of friction between the aluminum cylinder and the glass, I have bought some shrinking tape for the large cylinders (I do not expect this to be required for the small ones), which needs to be heat-treated with boiling water, to fit perfectly. This should create the necessary friction for the honey glass to roll smoothly. 
 
-I also tried to put on the gears and connect the conveyer belt to a slow 12v dc motor I had laying around. As seen in the GIF below, the rotation seems acceptable for the time being, with the honey glass upon the two cylinders. 
+I also tried to put on the gears and connect the conveyer belt to a slow 12v dc motor I had laying around. As seen in the GIF below, the rotation seems acceptable for the time being, with the honey glass upon the two cylinders. <br>
 ![d397c6f3-438f-473a-9a5c-cbf6a5bd7c35-ezgif com-resize](https://github.com/user-attachments/assets/77382139-40dd-4ef4-87bc-367bd01ee646)
 
 ### 20th of September 2025 <br>
