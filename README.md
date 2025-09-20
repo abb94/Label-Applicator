@@ -131,11 +131,24 @@ I have 3D printed the current design and constructed the main frame with the two
 ![printed design](https://github.com/user-attachments/assets/9c9398a5-125c-46e3-b484-f33258dd831a)
 Furthermore, due to the low amount of friction between the aluminum cylinder and the glass, I have bought some shrinking tape for the large cylinders (I do not expect this to be required for the small ones), which needs to be heat-treated with boiling water, to fit perfectly. This should create the necessary friction for the honey glass to roll smoothly. 
 
+I also tried to put on the gears and connect the conveyer belt to a slow 12v dc motor I had laying around. As seen in the GIF below, the rotation seems acceptable for the time being, with the honey glass upon the two cylinders. 
+![d397c6f3-438f-473a-9a5c-cbf6a5bd7c35-ezgif com-resize](https://github.com/user-attachments/assets/77382139-40dd-4ef4-87bc-367bd01ee646)
+
+### 20th of September 2025 <br>
+I fucked up. Since having iterated over several sockets and fits, I finally tried for an early-stage alpha test. 
+
+I had iterated over sockets and fits. Sockets (The once mounted on the frame), had to be small enough, for the cylinders to touch - But still be sturdy enough to carry the load. 
+In regards to the fit, it was required for them not to extend over the heatshrink, so that the heat shrink between two cylinders, could create friction between one another and "drag" the label spool through that space. 
+Having iterated this several times, I forgot that I had adjusted some depths, which resulted in a wasted 6-hour 3D print and not being able to conduct an early-stage alpha test. 
+- Learning? Standardize as much as possible, so that you don't iterate over several parts that serves a niche purpose. I could have created a socket in the beginning (and fit), which covered all my needs.
+  
+<img width="932" height="536" alt="20th of september" src="https://github.com/user-attachments/assets/62c18564-ebf2-4dad-9bfa-be4a5f6a33a9" />
+
 ---
 ### 📄: Learnings
 - Create a component as the first thing in Fusion 360. Create the body, and the sketch creating that body, and keep it inside the component.
-- Tolerances are difficult on a 3d Printer. 
-
+- Tolerances are difficult on a 3d Printer.
+- Standardize as much as possible, and don't create several parts from one origin, that fits a niche purpose. It is easier to have the original modified so that it coveres all requirements. 
 
 
 
