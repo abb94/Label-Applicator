@@ -121,7 +121,7 @@
 	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x20_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "b58608a6-0f2e-4b34-9699-87b79999fe9b")
-		(at 101.7 67.74)
+		(at 100.05 49.95)
 		(descr "Through hole straight socket strip, 1x20, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
 		(tags "Through hole socket strip THT 1x20 2.54mm single row")
 		(property "Reference" "J1"
@@ -572,7 +572,7 @@
 	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x20_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "d5324e77-6493-44dd-b10b-79bd5a0732ff")
-		(at 116.5 67.92)
+		(at 117.83 49.95)
 		(descr "Through hole straight socket strip, 1x20, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
 		(tags "Through hole socket strip THT 1x20 2.54mm single row")
 		(property "Reference" "J2"

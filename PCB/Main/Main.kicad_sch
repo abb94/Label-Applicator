@@ -929,7 +929,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x20_Socket")
-		(at 143.51 92.71 0)
+		(at 138.43 92.71 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -938,7 +938,7 @@
 		(dnp no)
 		(uuid "54c2188d-e9ae-492e-ba77-1780a24f45de")
 		(property "Reference" "J2"
-			(at 142.24 92.7099 0)
+			(at 137.16 92.7099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -947,7 +947,7 @@
 			)
 		)
 		(property "Value" "PICO Right"
-			(at 142.24 95.2499 0)
+			(at 137.16 95.2499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -956,7 +956,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x20_P2.54mm_Vertical"
-			(at 143.51 92.71 0)
+			(at 138.43 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -965,7 +965,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 143.51 92.71 0)
+			(at 138.43 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -974,7 +974,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x20, script generated"
-			(at 143.51 92.71 0)
+			(at 138.43 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
