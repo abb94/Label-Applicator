@@ -90,7 +90,7 @@ Initially, my goal was to design the components so they could be inserted into t
 Considering I’ll be using T-nuts, this approach didn’t make much sense. Instead, I decided to design the components to fit an M4×10 mm screw, which can be tightened directly onto the profile — meaning only the nut will go into the sockets.
 
 
-###8th of August 2025 <br>
+### 8th of August 2025 <br>
 I have started designing the most fundamental parts for the applicator. <br>
 - I have created the main roller
 - A model for a honey glass
