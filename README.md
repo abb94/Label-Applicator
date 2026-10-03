@@ -156,7 +156,7 @@ When I tried to demo my machine, which I have not written about in this log, I n
 - I noticed spikes in required torque to keep the machine running. Because I am using DC motors and not stepper motors, I cannot reduce the rotations to increase torque, and therefore I can end up stalling the motors if increased force is applied for some reason (Example here is a full honey glass compared to an empty glass.
 - My chosen IR sensors are not a good suit. IR sensors emit light and detects the same emitted light. My IR sensors reflects light upon an object, the object reflects it and the sensor detects it. However, the required compact build of the machine creates a placement of the glass and the object, which increases the error rate of object detection, to the small gap of tolerance that I can allow the sensors to have.
 
-- I will therefore make two changes to the build:
+#### I will therefore make two changes to the build:
 - Use 2 x low amp stepper motors
 - shift from a reflective IR sensor to a transmissive IR sensor. <br>
 
