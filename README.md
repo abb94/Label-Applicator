@@ -90,7 +90,7 @@ Initially, my goal was to design the components so they could be inserted into t
 Considering I’ll be using T-nuts, this approach didn’t make much sense. Instead, I decided to design the components to fit an M4×10 mm screw, which can be tightened directly onto the profile — meaning only the nut will go into the sockets.
 
 
-###8th of August 2025 <br>
+### 8th of August 2025 <br>
 I have started designing the most fundamental parts for the applicator. <br>
 - I have created the main roller
 - A model for a honey glass
@@ -122,7 +122,7 @@ Therefore, I have found some old aluminum cylinders in different sizes, from an 
 Furthermore, I have found a a default socket concept I will be using for the cylinders, where the socket fits perfectly on the profile and allows a tight fit for the bearing, while the bearing can still easily move. 
 ![Billede 4](https://github.com/user-attachments/assets/14e7646c-762e-411f-ae51-1720ac6849da)
 
-### 8th of September 2025 <br>
+###  8th of September 2025 <br>
 I have ended on the design below, for the large rollers on the label applicator. 
 
 <img width="986" height="615" alt="current design" src="https://github.com/user-attachments/assets/9ff043d8-c484-47b4-a8a3-37aa3648bd9c" />
@@ -143,6 +143,24 @@ Having iterated this several times, I forgot that I had adjusted some depths, wh
 - Learning? Standardize as much as possible, so that you don't iterate over several parts that serves a niche purpose. I could have created a socket in the beginning (and fit), which covered all my needs.
   
 <img width="932" height="536" alt="20th of september" src="https://github.com/user-attachments/assets/62c18564-ebf2-4dad-9bfa-be4a5f6a33a9" />
+
+
+
+### 3rd of October 2026 <br>
+
+I have not worked on this project for a while now. Had to remove everything from my office and make it into a kids' room. 
+
+I have contemplated about this project for a while now, and I will be re-designing the entire machine. 
+
+When I tried to demo my machine, which I have not written about in this log, I noticed several issues. <br>
+- I noticed spikes in required torque to keep the machine running. Because I am using DC motors and not stepper motors, I cannot reduce the rotations to increase torque, and therefore I can end up stalling the motors if increased force is applied for some reason (Example here is a full honey glass compared to an empty glass.
+- My chosen IR sensors are not a good suit. IR sensors emit light and detects the same emitted light. My IR sensors reflects light upon an object, the object reflects it and the sensor detects it. However, the required compact build of the machine creates a placement of the glass and the object, which increases the error rate of object detection, to the small gap of tolerance that I can allow the sensors to have.
+
+#### I will therefore make two changes to the build:
+- Use 2 x low amp stepper motors
+- shift from a reflective IR sensor to a transmissive IR sensor. <br>
+
+Both seems like obvious choices a year later...
 
 ---
 ### 📄: Learnings
