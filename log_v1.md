@@ -77,9 +77,3 @@ When I tried to demo my machine, which I have not written about in this log, I n
 
 Both seems like obvious choices a year later...
 
----
-### 📄: Learnings
-- Create a component as the first thing in Fusion 360. Create the body, and the sketch creating that body, and keep it inside the component.
-- Tolerances are difficult on a 3d Printer.
-- Standardize as much as possible, and don't create several parts from one origin, that fits a niche purpose. It is easier to have the original modified so that it coveres all requirements. 
-
